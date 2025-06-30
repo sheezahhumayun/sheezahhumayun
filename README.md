@@ -25,9 +25,9 @@
 
 <!-- ─── GitHub Stats ────────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheezah-Humayun&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheezah-Humayun&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheezah-Humayun&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheezahhumayun&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheezahhumayun&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheezahhumayun&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <!-- ─── Quote / Footer ──────────────────────────────────────────────────────── -->
